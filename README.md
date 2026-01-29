@@ -10,13 +10,13 @@ Implementarea unui model relațional complet pentru gestionarea unui ecosistem m
 * ## Structură & Modelare
 
 **Tabele Principale:**
-* `Utilizator` 
-* `Lista_piese` 
-* `Piesa` 
-* `Album` 
-* `Casa_de_discuri` 
-* `Trupa` 
-* `Locatie` 
+* 👤 `Utilizator` 
+* 📝 `Lista_piese` 
+* 🎵 `Piesa` 
+* 💿 `Album` 
+* 🏢 `Casa_de_discuri` 
+* 🎸 `Trupa` 
+* 🌍 `Locatie` 
 
 ## Setup
 
