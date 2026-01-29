@@ -10,16 +10,16 @@ Implementarea unui model relațional complet pentru gestionarea unui ecosistem m
 * ## Structură & Modelare
 
 **Tabele Principale:**
-* [cite_start]`Utilizator` 
-* [cite_start]`Lista_piese` 
-* [cite_start]`Piesa` 
-* [cite_start]`Album` 
-* [cite_start]`Casa_de_discuri` 
-* [cite_start]`Trupa` 
-* [cite_start]`Locatie` 
+* `Utilizator` 
+* `Lista_piese` 
+* `Piesa` 
+* `Album` 
+* `Casa_de_discuri` 
+* `Trupa` 
+* `Locatie` 
 
 ## Setup
 
-1.  [cite_start]Configurare mediu: Oracle Database + XAMPP (enable `extension=oci8_12c`).
+1.  Configurare mediu: Oracle Database + XAMPP (enable `extension=oci8_12c`).
 2.  Import schemă: Rulare scripturi DDL pentru structura tabelelor și constrângeri.
 3.  Seed: Populare DB cu dataset-ul inițial.
